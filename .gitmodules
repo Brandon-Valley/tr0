@@ -1,3 +1,5 @@
 [submodule "tsm0"]
 	path = tsm0
 	url = https://github.com/Brandon-Valley/tsm0.git
+	update = rebase
+	branch = master
